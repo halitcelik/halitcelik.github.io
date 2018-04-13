@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	color: white;
+}
+body {
+	background-image:url(https://i.ytimg.com/vi/SlGx8M_lPhY/maxresdefault.jpg);
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-size: 20px;
+	height:600px;
+  text-align:center;
+  align-items:flex-end;
+  
+
+}
+.btn {
+	background-color: rgba(255, 172, 1, 0.9);
+   	position:absolute; 
+   	margin-left:-5%;   
+   	width:150px;
+   	bottom:20px;
+   	font-size: 20px;
+}
+.btn:hover {
+	background-color: rgba(200, 222, 1, 0.9);
+
+}
